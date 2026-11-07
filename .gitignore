@@ -1,0 +1,7 @@
+venv/
+.buildozer/
+__pycache__/
+bin/
+*.wav
+*.webm
+*.mp4

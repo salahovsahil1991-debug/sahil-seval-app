@@ -1,0 +1,920 @@
+1
+00:00:00,000 --> 00:00:07,200
+ Bu doğa üstü ve her şeye gücü yeten barla inanma ihtiyacı bir çizme yiyebilirsiniz.
+
+2
+00:00:07,200 --> 00:00:14,200
+ Bu doğa üstü ve her şeye gücü yeten barla inanma ihtiyacı bir çizme yiyebilirsiniz.
+
+3
+00:00:14,200 --> 00:00:21,800
+ Bu doğa üstü ve her şeye gücü yeten barla inanma ihtiyacı bir çizme yiyebilirsiniz.
+
+4
+00:00:21,800 --> 00:00:29,800
+ Bu doğa üstü ve her şeye gücü yeten barla inanma ihtiyacı bir çizme yiyebilirsiniz.
+
+5
+00:00:29,800 --> 00:00:32,900
+ Bir çoklarını bir tanrı ara işine itmektedir.
+
+6
+00:00:32,900 --> 00:00:38,600
+ Bir tanrı adına savaşların başlamasına hatta gerekirse bir tanrı yaratmaya itmektedir.
+
+7
+00:00:38,600 --> 00:00:44,500
+ Merhaba. Benim adım Bilbak. Bu programda sizlere nihayı mucize dediğimiz şey sunacağız.
+
+8
+00:00:44,500 --> 00:00:50,000
+ Görüyorsunuz. İnsanlar tanrılara inanmayı seçtiğinde bu tanrıların çoğunun ortak tek şey olmuştur.
+
+9
+00:00:50,000 --> 00:00:56,600
+ Bu ortak şey onlardan korkulması, onlara tapınılması, hizmet edilmesi ve saygı duyulması gerektiğiydi.
+
+10
+00:00:56,600 --> 00:01:03,300
+ Bu tanrılara hizmet etmek için çok sayıda din sürede en eski dinlerden bazıları günümüzde hala varlığını sürdürmektedir.
+
+11
+00:01:03,300 --> 00:01:08,800
+ Yani bu dizim, hinduyizim ve şintoizim. Bu dinlerden bazıları birçok tanrıya inanırlar.
+
+12
+00:01:08,800 --> 00:01:14,300
+ Örneğin su tanrısı, ateş tanrısı, aşk tanrısı, refah tanrısı ve buna benzer.
+
+13
+00:01:15,400 --> 00:01:19,800
+ Daha sonra ise tek tanrıla dinler geldi. Ki bunlar tek bir tanrıya inanırlar.
+
+14
+00:01:19,800 --> 00:01:27,200
+ Bunların tümü evrensel tarih ve gidişatta büyük etkilere sahiptir. Bunlar Yahudilik, Ristiyanlık ve İslam'dır.
+
+15
+00:01:27,200 --> 00:01:33,400
+ Ve özellikle tek bir evrensel tarih ve gidişat içinde ortak bir inancı paylaşmak tadırlar.
+
+16
+00:01:33,400 --> 00:01:41,200
+ Bunlar Yahudilik, Ristiyanlık ve İslam'dır. Ve özellikle tek bir yüce tanrıya olan ortak inancı paylaşmak tadırlar.
+
+17
+00:01:41,200 --> 00:01:47,200
+ Belki de bu dinleri tasvir etmek için en iyi yol, üç dinin içiçe geçmiş olduğu kuduse bakmaktır.
+
+18
+00:01:47,200 --> 00:01:55,000
+ Kitabı Mukaddesi, diğer Peygamberlere ve onların gerçekleştirdiklerine inanılan mucizelere dair tarihsel bir hikaye esaibiz.
+
+19
+00:01:55,000 --> 00:02:01,400
+ Bize anlatılan muhza vardı. Tanrıyla konuşan Yahudileri esaretten kurtaran ve onlara on emri getiren.
+
+20
+00:02:01,400 --> 00:02:07,400
+ Hatta Kitabı Mukaddes'e göre firavun ve birlikleri tarafından takip edilirken kızıl denizi ikiye bölmüştür.
+
+21
+00:02:07,400 --> 00:02:11,400
+ Ristiyanlara göre yaşayan tanrının oğlu olan İsa mesih vardı.
+
+22
+00:02:11,400 --> 00:02:17,800
+ Ristiyanlar, onun sayesinde yaratıcıları ile yeni bir an taşma içine girmişlerdi. Son olarak Muhammed vardı.
+
+23
+00:02:17,800 --> 00:02:29,000
+ Müslüman tarihi ona mekgede Müslümanların kutsal kitabı olan Kur'an'ın vahidildiğini söyler ki o Kur'an büyük bir gayret de ezberlenmiştir ve dünyanın fusunun beşte bir tarafından takip edilmektedir.
+
+24
+00:02:29,000 --> 00:02:35,000
+ Yüz yıllar boyunca ve insanın dinleyelgili tecrübelerine rağmen hala bir çok gizem olduğu gibi durmaktadır.
+
+25
+00:02:35,000 --> 00:02:44,400
+ Hepsinden daha şaşırtıcı ve karmaşık olan gizem insanın hiçbir zaman göremediği fakat dindarca inandığı bu tanrının kimliği ve konsepte olarak kalmıştır.
+
+26
+00:02:44,400 --> 00:02:52,200
+ Bu dini karmaşa denizi her zaman kabarmıştır. Doğru olduğunu iddia eden birçok din meseptere bölünmeye başlamıştır.
+
+27
+00:02:52,200 --> 00:02:59,800
+ Tüm bu zaman boyunca insan, ekonomik, sosyal, askeri ve entellektüel olarak gelişiyordu.
+
+28
+00:02:59,800 --> 00:03:05,200
+ İnsan teknolojik olarak eşi benzeri görünmemiş bir tempo ile gelişmeye devam etmiştir.
+
+29
+00:03:05,200 --> 00:03:10,000
+ Fakat söz konusu din olduğunda hala bu karmaşa denizin içindeydi.
+
+30
+00:03:10,000 --> 00:03:17,400
+ Sıklıkla düzen bazlar tarafından yanıltılmakta ve bu görünmeyen tanrıya yaptığı yanıtsız kalan duaların hayal kırıklığına uğramaktaydı.
+
+31
+00:03:17,400 --> 00:03:25,400
+ Hayal kırıklığı ve karmaşa birçoklarının inancını kaybetmesine neden olmaktadır. Agnostisizm ve ateizm yaygınale gelmiştir.
+
+32
+00:03:25,400 --> 00:03:35,000
+ Şimdi birçokları çağlar boyunca son derece popüler olan bu tanrının varlığını açıkça reddetmekte veya en azından sorgulamaktadır.
+
+33
+00:03:35,000 --> 00:03:44,400
+ Darbinin teorisi, sunulan kanıt ve argümanlardan desteklenebilir sonuçlar çıkarabilen birçok bilim adamı ve bilginin kabul gören görüşü haline geldi.
+
+34
+00:03:44,400 --> 00:03:50,400
+ Fakat şu an birçok bilim adamı ve dini düşünür daha derin soruların varlığını fark etmektedir.
+
+35
+00:03:50,400 --> 00:04:01,800
+ Peki bu bizi nereye götürür? Bu dini açmaz için herhangi bir gerçek çözüm var mıdır? Diğer taraftan insan oğlu dinin kendisine dikte ettiği mantıksız uygulamaları kabul edememektedir.
+
+36
+00:04:01,800 --> 00:04:07,400
+ Yine de insan bazı en yakıcı sorularına tanrıyı reddederek yanıt bulamamıştır.
+
+37
+00:04:07,400 --> 00:04:14,400
+ Ben kimim? Neden buradayım? Bir tanrı var mı? Hayatın amacın ne gibi sorularını?
+
+38
+00:04:14,400 --> 00:04:26,400
+ Tam da insanın ağır işçiliğe toleransı bir sınırı ulaştığında sanayı devrimi eli kulağında bekliyordu. Şimdi de bir akıl ile aydınlanma devriminin gerçekleşmek üzere olduğu görünüyor.
+
+39
+00:04:26,400 --> 00:04:37,400
+ Önceki nesiller mucizeler yoluyla tanrıya inanmaya döndürülüyordu. Ancak modern insan bunlardan mucizelerden dolayı tanrıya inanamaz. O insanların aydı yürüdüğünü izlemiştir.
+
+40
+00:04:37,400 --> 00:04:46,400
+ Ona her gün en son teknoloji harikası sunuluyor. Birçok sahte iddia düzmece mucize ve üç kağıtçi peygamberle karşılaşmaktadır.
+
+41
+00:04:46,400 --> 00:04:55,400
+ Gittikçe kuşkucu bir hale gelmiştir. Özellikle de kadim efsane ve inançlar söz konusu olduğunda biraz kibirle atalarından daha iyi bildiğine inanmaktadır.
+
+42
+00:04:55,400 --> 00:05:04,400
+ Fantastik olayların antika habercilerini bir kenara bırakmıştır. Bu günün bazı mucizeleri hakkında ne düşüneceklerini merak etmek dedirler.
+
+43
+00:05:04,400 --> 00:05:18,400
+ Günümüz insanının önemli bir şeye ihtiyacı var. Nihahi bir mucizeye ihtiyaç duyuyor. Çalar boyunca insanların dinlerini değiştirdiği varsayılan tüm mucizeler belirli bir corafi konum veya zaman dilimiyle sınırlıydı.
+
+44
+00:05:18,400 --> 00:05:28,400
+ Tabiatı gereği Nihahi bir mucize sürekli bir şey olurdu. Bir corafi bölge veya zamanla sınırlı kalmamalıydı. Tüm insanlar için tüm zamanlarda görülebilir olmalıydı.
+
+45
+00:05:28,400 --> 00:05:36,400
+ Fiziksel, somut, incelenebilir, doğrulanabilir ve çürütülemez olmalıydı.
+
+46
+00:05:36,400 --> 00:05:46,400
+ Birkaç yıl önce tanınmış bilim ve televizyon adama Carl Sagan en çok satan romanında uzaydan gelen matematiksel olarak kodlanmış bir mesajdan bahsetti.
+
+47
+00:05:46,400 --> 00:05:56,400
+ Kitabın 431. sayfasında yazar şunu belirtmiştir. Bu kitap için en büyük umudum. Onun gerçek bilimsel keşiflerin hızı tarafından modası geçmiş hale getirilmesidir.
+
+48
+00:05:56,400 --> 00:06:09,400
+ Peki Carl Sagan'ın en büyük umudu gerçekleşmiş görünüyor. Son birkaç yılda yapılan bir araştırma yaklaşık 1400 yıl önceki bir belgede buna benzer bir matematiksel kod ortaya çıkardı. Bu belgenin başka mucizevi yönleri de var.
+
+49
+00:06:09,400 --> 00:06:17,400
+ Örneğin yalnızca son 20 yıldır bilim çok erken aşamalardaki fetusun gelişimi neşahit olabilmektedir.
+
+50
+00:06:17,400 --> 00:06:34,400
+ Fakat 1400 yıl önce fetusun ilk 28 gündeki gelişimi zaten belgelenmiştir ve böylesi tüm ayrıntıları gösteren kesinlik Toronto Universitesi Anatomi de patmanı başkanı olan Dr. Moore'u hayrete düşürmüştür.
+
+51
+00:06:34,400 --> 00:06:43,400
+ Bu aşamada Emreo yalnızca bir böyle 10 mm uzunluğundadır ve insan gözüne bir nokta gibi görünür.
+
+52
+00:06:43,400 --> 00:06:57,400
+ Ayırdetmek ve şekillendirmek güçlü mikroskopları gerektirmektedir. Ancak mikroskoplar 17. yüzyılak kadar icat edilmemiştir ve yine de 1400 yıl önce takip eden şu ifadeyi görüyoruz.
+
+53
+00:06:57,400 --> 00:07:04,400
+ Sonra odanladan sürük biçiminde yapışan bir şey yarattık.
+
+54
+00:07:04,400 --> 00:07:14,400
+ Dr. Moore, Emreo'nun aslında rahim duvarına yapıştırına doğrulamaktadır. Diğer pasaj, fetusun gelişimini şöyle betimlemektedir.
+
+55
+00:07:14,400 --> 00:07:25,400
+ Tanrı sizi annelerinizin karınlarında aşamalar halinde birbiri ardına üç karanlık dönemde yaratmaktadır.
+
+56
+00:07:25,400 --> 00:07:34,400
+ Dr. Moore bu betimlemenin doğruluğunu da kabul etmektedir. Bu üç dönemin akla uygun biçimde şu anlamlara gelecek şekilde yorumlanabileceğine açıklamıştır.
+
+57
+00:07:34,400 --> 00:07:39,400
+ Annenin karın duvarı, rahim duvarı ve amniyokoryonik memran devam ediyor.
+
+58
+00:07:39,400 --> 00:07:49,400
+ Hepimiz BigBank teorisini duymuşuzdur. Ama kim? BigBank teorisi hakkında 1400 yıl öncesinden bir beyan bulmayı bekler ama var.
+
+59
+00:07:49,400 --> 00:07:57,400
+ İnkarcılar, göklerin ve yerin tek bir varlık olduğunu sonra bizim onları ayırdığımızı fark etmiyorlar mı?
+
+60
+00:07:57,400 --> 00:08:04,400
+ Bu ayrılma süreci çok sayıda dünyanın oluşumu ile sonuçlanmıştır.
+
+61
+00:08:04,400 --> 00:08:17,400
+ Belgede bu dünyalardan birkaç kez bahsedilmektedir. Ayrıca ayette, düşsal olarak organize edilmiş astronomik sistemlerin sunduğu madde köpülerinin modern keşfine referans verildiği görünüyor.
+
+62
+00:08:17,400 --> 00:08:23,400
+ Ki ayet, şuna okur, tanrı gökleri, yeri ve ikisi arasındakileri yaratandır.
+
+63
+00:08:23,400 --> 00:08:30,400
+ Bugün seni sonraki nesillere bir işaret olarak yerleştirmek için sadece bedenini koruyacağız.
+
+64
+00:08:30,400 --> 00:08:35,400
+ Gerçekten de insanların çoğu işaretlerimize karşı dikkat sizdir.
+
+65
+00:08:35,400 --> 00:08:42,400
+ Mucizevi biçimde mısırlılırın mumyalama bilimi konusunda özellikle yetenekli oldukları görülüyor.
+
+66
+00:08:42,400 --> 00:08:51,400
+ 1898'de Lowryer, 3.000 yıldır dokunulmamış krallar vadisinden, 2. Ramses'in mumyalanmış bedenini buldu.
+
+67
+00:08:51,400 --> 00:08:56,400
+ Bugün onu firavunun bedenini görebileceğiniz kahireye nakletti.
+
+68
+00:08:56,400 --> 00:09:01,400
+ Tevratlaki çıkış bölümünün firavunu Merneptahın mumyası üzerinde yapılan tıbiç alışma,
+
+69
+00:09:01,400 --> 00:09:06,400
+ bu firavunun ölümüyle ilgili muhtemel nedenlere daha fazla bilgi verdi.
+
+70
+00:09:06,400 --> 00:09:13,400
+ Bedenin çürüme belirtilerinin olmaması, bedenin çok uzun süreli su altında kalmadığını göstermektedir.
+
+71
+00:09:13,400 --> 00:09:18,400
+ Ve gök yüzünde, ayın kendi ışığı olduğuna inanılıyordu.
+
+72
+00:09:18,400 --> 00:09:24,400
+ Çok uzun olmayan bir süre önce bilim, ayın kendi ışığını oluşturmadığını,
+
+73
+00:09:24,400 --> 00:09:28,400
+ yalnızca güneşin ışınlarını yansıtlığını keşfetti.
+
+74
+00:09:28,400 --> 00:09:37,400
+ Güneş'i ışığın kaynağı, ayı ışık yapmış olan tanrıdır ve onun evrelerini sizin için bir zamanlama aracı sağlamak için tasarlamıştır.
+
+75
+00:09:37,400 --> 00:09:41,400
+ Tanrı tüm bunları boşu boşuna yaratmamıştır.
+
+76
+00:09:41,400 --> 00:09:46,400
+ Geceyi, gündüzü, güneşi ve ayı yaratmış olan tanrıdır.
+
+77
+00:09:46,400 --> 00:09:52,400
+ Her biri kendi yürüngesinde kendine özgü hareketiyle gider.
+
+78
+00:09:52,400 --> 00:10:08,400
+ Bugün göksel düzenin, yıldızların konumuna göre belirlenmiş yürün gelerce, nasıl dengelendiği ve yer çekimi kuvvetlerinin etkileşiminin küttelerine ve her biri kendine has hareketiyle hareket hızlarına bağlı olduğu bilinmektedir.
+
+79
+00:10:08,400 --> 00:10:24,400
+ Sir Francis Drake 1597'de Dünya etrafında denize açıldığında dünyanın yuvarlak olduğunu ispatladı. Sizin yaratılmanız, onun göğün inşa etmesinden daha mı zor, onun küttelerini yükselti ve onun mükemmel aile getirdi.
+
+80
+00:10:24,400 --> 00:10:32,400
+ Gecesine karanlık yaptı ve sabahını aydınlattı. Ardından yer yüzünü ise yumurta biçiminde yaptı.
+
+81
+00:10:32,400 --> 00:10:44,400
+ Bu kolombustan neredeyse bin yıl önce yazılmıştır. Şu anda dünya atmosferinin zararlı radyasyonların yüzeye inişine engellemek için bir filtre görevi üstlendiğine biliyoruz.
+
+82
+00:10:44,400 --> 00:10:56,400
+ Xray ve ultraviole gibi kısa dalga boyları yüksek rakımlarda filtrelenmektedir. Bu işinlardan korunmak yer yüzü üzerinde yaşamın varlığını sürdürmesi için hayatı önem arzetmektedir.
+
+83
+00:10:56,400 --> 00:11:04,400
+ Ve gök yüzünü koruyucu bir tavan yaptık. Ve yaşamın kökeninin su olduğuna ilişkin modern fikir doğurlandı.
+
+84
+00:11:04,400 --> 00:11:11,400
+ Ve biz yaşayan her varlık için suyu ihtiyaç haline getirdik.
+
+85
+00:11:11,400 --> 00:11:20,400
+ Su tüm canlılar için önemli olan en basit kimiasal bileşendir. Birçok organizma yüzde 50 ile %95 arası su içermektedir.
+
+86
+00:11:20,400 --> 00:11:27,400
+ Bilim adamları yaşayan her varlığın varlığını sürdürebilmek için suya ihtiyacı olduğunu bilir.
+
+87
+00:11:27,400 --> 00:11:35,400
+ Suyun birçok özelliği yaşam süreci için hayatı öneme sahiptir. Birçok maddeyi çözebiliyor olması hayatidir.
+
+88
+00:11:35,400 --> 00:11:42,400
+ Çünkü organizmalardaki birçok kimiasal reaksiyonlar yalnızca çözülmüş sudam eydana gelebilirler.
+
+89
+00:11:42,400 --> 00:11:47,400
+ Çiçeklerden Nektar toplamakla meşgul olan balarısını ele alalım.
+
+90
+00:11:47,400 --> 00:11:59,400
+ Yemek borusunun genişlemesi olan dolu bal kesesi için kovana girerken sıvıyı, evci veya bakıcı arı denilen genç çalışanların ağızlarına döker.
+
+91
+00:11:59,400 --> 00:12:07,400
+ Bunlar bunun sonucunda Nektar'ın hücreye yerleştirirler ve Nektar'ı bala dönüştürmek için gerekti görevleri yerine getirirler.
+
+92
+00:12:07,400 --> 00:12:14,400
+ Bunlar bizim yaklaşık 80 yıldır bilebildiğimiz şeyler. Ve Rabbin araya esinledi.
+
+93
+00:12:14,400 --> 00:12:20,400
+ Dağlar da, ağaçlar da ve sizin için kurduğu kovanlar da evler yap.
+
+94
+00:12:20,400 --> 00:12:26,400
+ Sonra da Rabbinin çizdiği planı tam olarak takip ederek bütün ürünlerden ye.
+
+95
+00:12:26,400 --> 00:12:33,400
+ Karınlarından insanlar için içinde şifa olan değişik renklerde bir içecek çıkar.
+
+96
+00:12:33,400 --> 00:12:37,400
+ Bu derin düşünen insanlar için işaret olmalıdır.
+
+97
+00:12:37,400 --> 00:12:48,400
+ Bu cümlenin 1400 yıl önce kurumuş olduğunu hatırlayın. 1400 yıl önce bir insan nasıl balın arının kanından geldiğini bilebilir.
+
+98
+00:12:48,400 --> 00:12:56,400
+ Bu belge ayrıca balda şifa olduğunu belirtmektedir. Bal gerçekten de hafif antiseptik özellikleri sahiptir.
+
+99
+00:12:56,400 --> 00:13:01,400
+ Ruslar ikinci dünya savaşında yaralarını sarmak için bal kullanırlardı.
+
+100
+00:13:01,400 --> 00:13:09,400
+ Dolardaki nem miktarını korur ve çok az yara izi bırakır. Yonluğu sayesinde yara da mantar ya da bakteri büyüyemez.
+
+101
+00:13:09,400 --> 00:13:17,400
+ Ayrıca bir insan belirli bir bitkiye alercik reaksiyon gösteriyorsa ona bu bitkiden yapılmış bal verilir.
+
+102
+00:13:17,400 --> 00:13:21,400
+ Bu kişi alerciye belli oranda direnç gösterir.
+
+103
+00:13:21,400 --> 00:13:36,400
+ Kandolaşımının keşfinden 1000 yıl öncesi ve organların bestenmesinin sindirimle ilgili emilim süreci sayesinde olduğunu bilmediğimiz 13.00 yıl öncesinde o dökümanda bir ayet görüyoruz.
+
+104
+00:13:38,400 --> 00:13:43,400
+ İdrar ve kanın arasından lezzetli saf süt gelir.
+
+105
+00:13:45,400 --> 00:13:54,400
+ Sadece yakın zamanda ineklerin yediklerinden şu bulundu. İdrar ve kana doğru besin ayrıştırması var, geri kalanı süt olarak son buluyor.
+
+106
+00:13:56,400 --> 00:14:05,400
+ 1400 yıl önce botanikteki gelişmeler, bitkilerin hem dişi hem de erkek parçalara sahip olduğu gerçeğini bir kural olarak yerleştirecek kadar gelişmiş değildi.
+
+107
+00:14:05,400 --> 00:14:17,400
+ Fakat yine de dökümanda şunu okuyoruz. Tanrı gök yüzünden su indiren ve böylece her biri birbirinden ayrı 4 çift bitkiyi bitirendir.
+
+108
+00:14:21,400 --> 00:14:29,400
+ Bugün meyvelerin eşeyli karakterleri olan bitkilerden geldiğini biliyoruz. Hatta muz gibi döllenmeyen bitkiler bile.
+
+109
+00:14:30,400 --> 00:14:35,400
+ Tanrı, yer yüzünde her bitkiden çiftler halinde yerleştirdi.
+
+110
+00:14:36,400 --> 00:14:43,400
+ Bu döküman önceki insanlara dağların bulutlar gibi hareket ettiği şeklindeki dikkate değer önermeyi bildirmektedir.
+
+111
+00:14:43,400 --> 00:14:49,400
+ Şu an bunun doğru olduğunu biliyoruz. Çünkü dünya hem kendi yorumgesinde hem de güneşin etrafında dönüyor.
+
+112
+00:14:49,400 --> 00:14:58,400
+ Fakat eski zamandan kalma biri için bariz bir şekilde dağların hareket etmesinden daha çelişkili ne olabilir ki ama yine de dağlara baktığın zaman
+
+113
+00:14:58,400 --> 00:15:04,400
+ onların hareketiz olduğunu zannedersin. Halbuki onlar bulutlar gibi hareket ederler.
+
+114
+00:15:04,400 --> 00:15:07,400
+ İşte Tanrı'nın yaratışı böyledir.
+
+115
+00:15:10,400 --> 00:15:16,400
+ Şu an bizler dağ sıralarını oluşturan kıtasal kıvrım sürüklenmelerini ve dünya'nın kabuğunun üzerinde yaşayabileceğimiz
+
+116
+00:15:16,400 --> 00:15:22,400
+ katı bir kabuk gibi olduğunu biliyoruz. Ancak daha derin olan katmanlar sıcak ve akışkandır.
+
+117
+00:15:22,400 --> 00:15:29,400
+ Biz yer yüzünü geniş bir alan yapmadık mı? Ve dağları da sabitleyiciler.
+
+118
+00:15:29,400 --> 00:15:38,400
+ Dağların sabitleyici gibi stabil oluşu kıvrımı olgusuyla bağlantılır ki kıvrımlar dağları oluşturan kabartmaların temellerini sağlar.
+
+119
+00:15:40,400 --> 00:15:45,400
+ Bu açıdan gerçekten de toprağın derinliklerine inen çadır kazığı gibidirler.
+
+120
+00:15:45,400 --> 00:15:53,400
+ Onun gözünü tıpkı göğe doğru tırmanan kimse gibi daralmış ve sıkışmış kılar.
+
+121
+00:15:53,400 --> 00:16:00,400
+ Parmakizi 1880'lerde Sir Francis Gelt'ın araştırması ile kimlik belirlemede kullanılan bilimsel bir metod olmuştur.
+
+122
+00:16:00,400 --> 00:16:07,400
+ Gelt'ın matematiksel olarak hiçbir iki insanın aynı parmakizine sahip olamayacağına hesaplamıştır.
+
+123
+00:16:08,400 --> 00:16:12,400
+ Doğrusu onun parmak ucularını da yeniden inşa etmeye gücümüz yeter.
+
+124
+00:16:14,400 --> 00:16:18,400
+ Bütün bu bilimsel olguların hepsi aynı kitaptan alınmıştır.
+
+125
+00:16:18,400 --> 00:16:26,400
+ Diğer örnekler, modern bilim tarafından keşfedilen gerçeklerle doğrudan ilişkidi sonsuz derecede daha değerli veriler içerir.
+
+126
+00:16:26,400 --> 00:16:29,400
+ Ancak bunu keşfetmek için modern bilgisayarlar gerekmiştir.
+
+127
+00:16:29,400 --> 00:16:34,400
+ Ancak şimdi bu metnin sayısı zayeti nihayet anlaşılır hale gelmiştir.
+
+128
+00:16:34,400 --> 00:16:42,400
+ Tanınmış bir Francis bilim adamı olan Dr. Maurice Bukay 1400 yıl önce yazılmış bir metnin nasıl modern zamanlarda
+
+129
+00:16:42,400 --> 00:16:48,400
+ tadışıla bilen konular hakkında fikirler beyan ediyor olduğunu açıklamanın imkansız olduğunu belirtmiştir.
+
+130
+00:16:48,400 --> 00:16:58,400
+ Birçok başka bilimsel olgu, tuzlu ve tatlı su arasındaki bari yer, tutuşmanın dal benzeri ilerlemesi bütün bunlardan 1400 yıl önce bahsedilmiştir.
+
+131
+00:16:58,400 --> 00:17:06,400
+ Nova tarafından son zamanlarda yapılan dikkat çekici bir araştırma da tam ölüm zamanında insanların kilolarında çok küçük bir değişim olduğu bulundu.
+
+132
+00:17:06,400 --> 00:17:09,400
+ Ama bu hayvanlar için geçerli değildi.
+
+133
+00:17:09,400 --> 00:17:14,400
+ Bu metin ölüm anında tanının ruhu dışarıya çıkardığını belirtiyor.
+
+134
+00:17:14,400 --> 00:17:19,400
+ Ve şu an bu buluşların en inanılmaz önemine geliyoruz.
+
+135
+00:17:19,400 --> 00:17:30,400
+ Modern insanın kendisini dini, hayal kırıklıklarından ve yaratıcısa hakkındaki kafa karışıklığından kurtarabilmesi için nihayı bir mucizeye ihtiyacı olduğunu söylediğimiz hatırlayın.
+
+136
+00:17:30,400 --> 00:17:35,400
+ Pekala bu metinde nihayı mucizenin ortaya çıkışıyla bu gerçekleşti.
+
+137
+00:17:35,400 --> 00:17:43,400
+ Şu an açıklamak üzere olduğumuz durum. Bu nihayı mucize bilimsel olarak kanıtlanabilir bir formdadır.
+
+138
+00:17:43,400 --> 00:17:51,400
+ Dokunulabilir, incelenebilir, doğrulanabilir ve tamamen çürütülemez matematiksel kod.
+
+139
+00:17:51,400 --> 00:18:01,400
+ Bu durum yalnızca bu ilahi metnin yazarının yüce tanrı olduğunu kanıtlamıyor, aynı zamanda tanının varlığına ilişkin ilk fiziksel delili oluşturuyor.
+
+140
+00:18:01,400 --> 00:18:11,400
+ Ve metnin kendisinin kuruma haracı olarak da hizmet eder. Bu şekilde okuyucu her bir kelimenin hatta her bir harfin yüce tanrıdan olduğunu bilir.
+
+141
+00:18:11,400 --> 00:18:15,400
+ Bu metin kurandır.
+
+142
+00:18:15,400 --> 00:18:21,400
+ Ve nihayı mucize ise mükemmel ve meydan okunulamaz matematiksel koddur.
+
+143
+00:18:21,400 --> 00:18:29,400
+ Bu matematiksel kod, yaratıcının bu imzası her zaman burdaydı, herkesin görmesi için kurandaydı.
+
+144
+00:18:29,400 --> 00:18:40,400
+ Ancak son zamanlarda ve yalnızca tuson mescidinin imamı ya da görevlisi olan doktor Reşat Halife tarafından modern bilgisayarlar kullanılarak açığa çıkarılabildi.
+
+145
+00:18:40,400 --> 00:18:45,400
+ Özetle, açıklamama izin verin. Kur'an 14 bölümden oluşmaktadır.
+
+146
+00:18:45,400 --> 00:18:51,400
+ Bu bölümlerin 29 tanesi 1400 yıl boyunca gizem olarak kalmış başlangı çarferiyle başlar.
+
+147
+00:18:51,400 --> 00:18:55,400
+ Şimdiye kadar hiç kimse bunların ne anlamı geldiğini bilmiyordu.
+
+148
+00:18:55,400 --> 00:19:02,400
+ Detaylara girmeden önce bu mucizenin büyüklüğünü anlamamızı sağlayacak ufak bir örneği bakalım.
+
+149
+00:19:02,400 --> 00:19:07,400
+ Jack ve Jill tepeye çıktılar gibi basit bir cümle yeğe alalım.
+
+150
+00:19:07,400 --> 00:19:12,400
+ Jack ve Jill tepeye çıktılar. Bu cümlede 5 kelime ve 24 harf vardır.
+
+151
+00:19:12,400 --> 00:19:15,400
+ Ve bu cümlenin basit matematiksel yapısını oluştururlar.
+
+152
+00:19:15,400 --> 00:19:21,400
+ Şimdi bu matematiksel yapıyı değiştirmeye ama anlamı bozmamaya çalışalım.
+
+153
+00:19:21,400 --> 00:19:28,400
+ Jack ve Jill tepeye tırmandılar. Aynı manayı 5 kelime ve 27 harfle vermeye çalışalım.
+
+154
+00:19:28,400 --> 00:19:33,400
+ Jack ve Jill tepeye çıktılar cümlesine 3 harf eklememiz gerekir.
+
+155
+00:19:33,400 --> 00:19:38,400
+ Bunu denerken Jack ve Jill kelimelerinin değiştirilemez olduğunu görürüz.
+
+156
+00:19:38,400 --> 00:19:44,400
+ Çıktılar yerine tırmandılar şeklinde yazamayız. Çünkü bu ayrı bir anlam taşır.
+
+157
+00:19:44,400 --> 00:19:49,400
+ Benzer şekilde o tepeye yerine bir tepeye de koyamayız.
+
+158
+00:19:49,400 --> 00:19:54,400
+ Çünkü o zaman tepe herhangi bir tepeye ifade edecektir.
+
+159
+00:19:54,400 --> 00:20:01,400
+ Diğer bir değiştire basit bir cümlenin bile anlamını değiştirmeden matematiksel yapısını değiştirmek sordur.
+
+160
+00:20:01,400 --> 00:20:09,400
+ Şimdi sadece toplam harf sayısına değil aynı zamanda kelimelerdeki belirli harterin sayısını da kontrol ederek
+
+161
+00:20:09,400 --> 00:20:15,400
+ belirli anlamları matematiksel bir modeli aktaran cümneleri deneyip gruplandırmaya ne dersiniz?
+
+162
+00:20:15,400 --> 00:20:20,400
+ Jack ve Jill tepeye bir kovası getirmek için çıktılar cümlesine ele alalım.
+
+163
+00:20:20,400 --> 00:20:26,400
+ A ve E harterinin toplam sayısının 8 yerine 9 olmasını sağlamaya çalışalım.
+
+164
+00:20:26,400 --> 00:20:33,400
+ Nükenmel anlamı koruyan ve A ve E harterini içeren 5 kelime vardır ve değiştirilemez.
+
+165
+00:20:33,400 --> 00:20:40,400
+ Yani ancak kalan diğer kelimeleri değiştirebiliriz ama bu yine de cümlenin anlamının değişmesine neden olacaktır.
+
+166
+00:20:40,400 --> 00:20:47,400
+ Bu yapıyı değiştirmenin yalnızca bir cümle için bile neredeyse imkansız olduğu kolaylıkla görülücektir.
+
+167
+00:20:47,400 --> 00:20:50,400
+ Çok olmaya hazır olun.
+
+168
+00:20:50,400 --> 00:20:57,400
+ Bu metin Kur'an harterinin bölümler içinde, bölümler arasında, kelimeler arasındaki harterin kombinasyonunda,
+
+169
+00:20:57,400 --> 00:21:06,400
+ toplam cümlesaylarında, toplam kelimesaylarında, hepsi birbiriyle içiçe geçmiş, gelişmiş kontrol hesaiptir.
+
+170
+00:21:06,400 --> 00:21:11,400
+ Bu durum çok güçlü bilgisayarlarla bile takli dedilmesi imkansızdır.
+
+171
+00:21:11,400 --> 00:21:14,400
+ Ama anlaşılması oldukça kolaydır.
+
+172
+00:21:14,400 --> 00:21:21,400
+ Örneğin 29 bölüm, ortalama 160 bin harf gizemle harflerle başlamaktadır.
+
+173
+00:21:21,400 --> 00:21:28,400
+ 50. bölüm, yalnızca Q harfiyle, 2. bölüm A ile Me ile başlamaktadır.
+
+174
+00:21:28,400 --> 00:21:36,400
+ 19. bölüm, başlangıç olarak 5 harf hesaiptir. K, E, A, C. Gösterimi daha kolay hale getirebilmek adına,
+
+175
+00:21:36,400 --> 00:21:41,400
+ arabca harterin İngilizce kaşılığını seçtiğimizi lütfen aklınızda bulundurun.
+
+176
+00:21:41,400 --> 00:21:48,400
+ 50. bölümdeki Q harterinin tam olarak 57 ya da 19 çarpı 3 kez geçtiği keşfedilmiştir.
+
+177
+00:21:48,400 --> 00:22:01,400
+ İkinci bölümdeki A, Le ve Me'ler toplamda 9.899 kez bulunmaktadır.
+
+178
+00:22:01,400 --> 00:22:08,400
+ Aynı zamanda A, Le ve Me harfleri 7 bölümde başlangıçlı olarak bulunmaktadır.
+
+179
+00:22:08,400 --> 00:22:13,400
+ A ve Le harfleri, arabca tanrı kelimesinin harplerini içermektedir.
+
+180
+00:22:13,400 --> 00:22:17,400
+ Birazdan göreceğiniz üzere, bunun oluşumu da düzenlenmektedir.
+
+181
+00:22:17,400 --> 00:22:26,400
+ Bunun bölümlerini, ayetlerini, kelimelerini, hatta harflerini birbirine bağlayan kasıtlı bir insan üstü yapının olduğunu hemen anlarız.
+
+182
+00:22:26,400 --> 00:22:32,400
+ Yalnızca bir harf bile değiştirilse, eklense veya çıkarılsa bütün sistem çöker.
+
+183
+00:22:32,400 --> 00:22:40,400
+ Bu sistemin yaratılmasından 1400 yıl sonra keşfedilmiş olması gerçeği onun mükemmel bir şekilde korunduğunu ispatlamaktadır.
+
+184
+00:22:40,400 --> 00:22:47,400
+ Matematiksel kodun temeli, açılış cümlesidir.
+
+185
+00:22:47,400 --> 00:22:52,400
+ En lütufker, en merhametli olan tanrının adıyla tam olarak 38 veya 19 çarpı 2 harfi çermektedir.
+
+186
+00:22:52,400 --> 00:22:54,400
+ Bu İngilizcesi için geçerli.
+
+187
+00:22:54,400 --> 00:22:59,400
+ Kurandirinde, arabçasında tam olarak 19 harf ve 4 kelime içermektedir.
+
+188
+00:22:59,400 --> 00:23:09,400
+ Bu 4 kelime olan isim, tanrı, en lütufker ve en merhametli bütün kitapda sırası ile 192698,
+
+189
+00:23:09,400 --> 00:23:15,400
+ 57 ve 14 kez geçmektedir.
+
+190
+00:23:15,400 --> 00:23:19,400
+ Bütün bunlar 19'un katıdır.
+
+191
+00:23:19,400 --> 00:23:30,400
+ Ayetlerin toplamı 6.3406 bütün bölümler, suresayısı, 14 yine 19'un katıdır.
+
+192
+00:23:30,400 --> 00:23:35,400
+ Bu esis kodun yapılandırılmasının çok zor olduğunu görmeye başlıyoruz.
+
+193
+00:23:35,400 --> 00:23:45,400
+ Üzerinde 19 var, kesinlikte, yemin ederim, aya ve geçtiği vakit, geceye ve ardığı vakit sabaha.
+
+194
+00:23:45,400 --> 00:23:50,400
+ Bu büyük mucizelerden biridir.
+
+195
+00:23:50,400 --> 00:23:53,400
+ Gerçekten de en büyük mucize.
+
+196
+00:23:53,400 --> 00:23:58,400
+ Ve şu an 19'un tanrının yarattığı her şey üzerindeki imzası olduğunu anlıyoruz.
+
+197
+00:23:58,400 --> 00:24:03,400
+ Örneğin sizler ve ben vücudumuzda 299 kemik taşırız.
+
+198
+00:24:03,400 --> 00:24:09,400
+ 19 çarpı 11, tam zamanlı bir fetus, annere ahminde 266 gün kalır.
+
+199
+00:24:09,400 --> 00:24:16,400
+ 19 çarpı 14, güneş, ay, dünya, her 19 yılda bir aynı pozisyon da sıralanırlar.
+
+200
+00:24:16,400 --> 00:24:20,400
+ Ve sayre, ve sayre, ve sayre.
+
+201
+00:24:20,400 --> 00:24:23,400
+ İzleyici neden 19 diye merak edebilir?
+
+202
+00:24:23,400 --> 00:24:31,400
+ Geçmişten kalan rakamlandırma sistemini kullandığımızda, Arabçe ve İbrahimice bir tek kelimesinin karşılığı 19'dur.
+
+203
+00:24:31,400 --> 00:24:35,400
+ Ve Kur'an'ın mesajı budur, yani bir tek.
+
+204
+00:24:35,400 --> 00:24:39,400
+ Tek tanrı ve tanrının himayesindeki ulusların kardeşliği.
+
+205
+00:24:39,400 --> 00:24:43,400
+ Kur'an tanrının yönlendirmesi altında yazılmıştır.
+
+206
+00:24:43,400 --> 00:24:46,400
+ Bir şey çok açıktır.
+
+207
+00:24:46,400 --> 00:24:52,400
+ Hiçbir insan bu denli karmaşık ve mükemmel bir şekilde matematiksel olarak kodlanmış bir metin yazamaz.
+
+208
+00:24:52,400 --> 00:24:57,400
+ Geçmişte de, şimdi de, hatta bilgisayarların yardımıyla bile.
+
+209
+00:24:57,400 --> 00:25:03,400
+ Kur'an'ın matematiksel kodunun en önemli fonksiyonlarından biri, fiziksel delirle,
+
+210
+00:25:03,400 --> 00:25:09,400
+ önceki peygamber ve elçilerin bütün mucizelerini ispatlar ve doğrular.
+
+211
+00:25:09,400 --> 00:25:11,400
+ Muza, kızıldenizi ikiye ayırdı.
+
+212
+00:25:11,400 --> 00:25:15,400
+ İsa ölüyü diriltti. Umudu olmayan, körü ve cüzzanlıyı iyileştirdi.
+
+213
+00:25:15,400 --> 00:25:17,400
+ Ve buna benzer şeyler.
+
+214
+00:25:17,400 --> 00:25:21,400
+ Şu an bu mucizeler, Kur'an içinde matematiksel olarak oluşturulmuş
+
+215
+00:25:21,400 --> 00:25:24,400
+ ve gerçek olduğu bu kodla doğrulanmıştır. Tanrı şahit idi.
+
+216
+00:25:24,400 --> 00:25:27,400
+ Onun sözleri, ilahi'dir, kutsaldir.
+
+217
+00:25:27,400 --> 00:25:34,400
+ Ve nihayı mucize yoluyla ispatlanan şey, Kur'an'ın gerçekten onun sözleri olduğudur. Tanrı'nın sözleri.
+
+218
+00:25:34,400 --> 00:25:40,400
+ Bu nedenle çok kritik sorularımızdan birkaçını cevaplamak için buna Kur'an'a bakalım.
+
+219
+00:25:40,400 --> 00:25:44,400
+ Mesela, açlık, afet ve hastalıklar neden var olduğu
+
+220
+00:25:44,400 --> 00:25:47,400
+ ve hayatın bütün amat ve anlamının ne oldu?
+
+221
+00:25:47,400 --> 00:25:53,400
+ Ve doğruluk üzere olan evrensel insanın hayalini kurduğu, barış ve huzurun ne oldu?
+
+222
+00:25:53,400 --> 00:25:58,400
+ Şu an verilmiş Kur'an mesajı, bir tektir.
+
+223
+00:25:58,400 --> 00:26:01,400
+ Tek tanrı, tek kardeşlik.
+
+224
+00:26:01,400 --> 00:26:03,400
+ Bunu düşünün.
+
+225
+00:26:03,400 --> 00:26:08,400
+ Evrendeki tüm güç ve sevgi, tek bir yüce varlıktadır.
+
+226
+00:26:08,400 --> 00:26:12,400
+ Ki o, yalnızca varlığının değil, aynı zamanda inanan
+
+227
+00:26:12,400 --> 00:26:17,400
+ ve doğruyu arayanlarla sorgusuz bir biçimde iletişim kurduğunun güvencesini vermektedir.
+
+228
+00:26:17,400 --> 00:26:20,400
+ Onun yasaları ve tağı ütleri.
+
+229
+00:26:20,400 --> 00:26:27,400
+ Onun yasalarını ve talimatlarını takip ederek, neler kazanabileceğinize hayal edin.
+
+230
+00:26:50,400 --> 00:27:12,220
+ [MÜZİK ÇALIYOR]
+
